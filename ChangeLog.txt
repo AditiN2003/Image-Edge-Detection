@@ -1,0 +1,6 @@
+8/31/2023
+    Started assignment0: Image edge detection.
+    Got the code to work but need to change the main so it grabs the input from the command line
+9/1/2023
+    Changed the main so the file name is grabbed from the command line and written to "sobel.pgm"
+    Assignment0: finished!
